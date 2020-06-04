@@ -1,7 +1,8 @@
 # mep
 Obtener cotizaciones del dolar mep
+```
 python3 mep.py 
-
+```
 Output:
 ```
  PARY | 107.209 | $AR 4610.00 | U$D 43.00 | volumen:       30
