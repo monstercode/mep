@@ -4,22 +4,22 @@ response = requests.get("https://www.bullmarketbrokers.com/Information/StockPric
 data = response.json()["result"]
 
 bonds = {
-    "AA25" :  None,
-    "AA25D":  None,
-    "AA37" :  None,
-    "AA37D":  None,
-    "AO20" :  None,
-    "AO20D":  None,
-    "AY24" :  None,
-    "AY24D":  None,
-    "DICA" :  None,
-    "DICAD":  None,
-    "DICY" :  None,
-    "DICYD":  None,
-    "PARA" :  None,
-    "PARAD":  None,
-    "PARY" :  None,
-    "PARYD":  None,
+    "AL30" :  None,
+    "AL30D":  None,
+    "AL29" :  None,
+    "AL29D":  None,
+    "AE38" :  None,
+    "AE38D":  None,
+    "AL35" :  None,
+    "AL35D":  None,
+    "AL41" :  None,
+    "AL41D":  None,
+    "GD38": None,
+    "GD38D": None,
+    "GD41": None,
+    "GD41D": None,
+    "GD46": None,
+    "GD46D": None,
 }
 
 mep = []
