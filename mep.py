@@ -14,12 +14,19 @@ bonds = {
     "AL35D":  None,
     "AL41" :  None,
     "AL41D":  None,
+    "GD29": None,
+    "GD29D": None,
+    "GD30": None,
+    "GD30D": None,
+    "GD35": None,
+    "GD35D": None,
     "GD38": None,
     "GD38D": None,
     "GD41": None,
     "GD41D": None,
     "GD46": None,
     "GD46D": None,
+
 }
 
 mep = []
